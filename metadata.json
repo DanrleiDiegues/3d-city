@@ -1,0 +1,6 @@
+{
+  "name": "Mapa 3D Chácara - MG",
+  "description": "Visualização 3D realista e interativa da cidade de Chácara - MG com relevo montanhoso, casas e prédios elevados, vias e pontos de interesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
